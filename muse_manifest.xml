@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="emu500.github.io" resolutions="1x,2x" timestamp="1554989590992">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="emu500.github.io" resolutions="1x,2x" timestamp="1555230556855">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="221944920" ref="index"/>
+    <file name="index.css" crc="4052378231" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -126,7 +126,7 @@
     <file name="u600-4.png" crc="3917523849" ref="index"/>
     <file name="u600-4_2x.png" crc="141386123" ref="index"/>
     <file name="u591-4.png" crc="3838999335" ref="index"/>
-    <file name="u591-4_2x.png" crc="309881185" ref="index"/>
+    <file name="u591-4_2x.png" crc="324820332" ref="index"/>
     <file name="0331_0034_圖層-25.png" crc="4210922594" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -288,6 +288,13 @@
     </file>
     <file name="u691-4.png" crc="3967500628" ref="index"/>
     <file name="u691-4_2x.png" crc="4107565825" ref="index"/>
+    <file name="ruler-tap-favicon.ico" crc="469967492" ref="index"/>
+    <file name="to top.png" crc="3914470295" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="to top_2x.png" crc="3916156561" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="346127315" seo="true" mt="1554989421928" redirect="true"/>
+  <file name="index.html" crc="3813007858" seo="true" mt="1555230535607" redirect="true"/>
 </manifest>
