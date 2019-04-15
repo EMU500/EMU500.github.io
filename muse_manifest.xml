@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="emu500.github.io" resolutions="1x,2x" timestamp="1555331617553">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="emu500.github.io" resolutions="1x,2x" timestamp="1555333199913">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4013709772" ref="index"/>
+    <file name="index.css" crc="122576115" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -200,8 +200,8 @@
     <file name="0331_0028_圖層-19_2x.png" crc="150675660" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u506-4.png" crc="392127053" ref="index"/>
-    <file name="u506-4_2x.png" crc="428616583" ref="index"/>
+    <file name="u506-4.png" crc="390257135" ref="index"/>
+    <file name="u506-4_2x.png" crc="4162766582" ref="index"/>
     <file name="u514-4.png" crc="16151532" ref="index"/>
     <file name="u514-4_2x.png" crc="4061363977" ref="index"/>
     <file name="u527-4.png" crc="477193808" ref="index"/>
@@ -289,12 +289,12 @@
     <file name="u691-4.png" crc="3967500628" ref="index"/>
     <file name="u691-4_2x.png" crc="4107565825" ref="index"/>
     <file name="ruler-tap-favicon.ico" crc="469967492" ref="index"/>
-    <file name="to top.png" crc="3914470295" ref="index">
+    <file name="to top.png" crc="4069902191" ref="index" seo="true">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="to top_2x.png" crc="3916156561" ref="index">
+    <file name="to top_2x.png" crc="4244103490" ref="index" seo="true">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3994155403" seo="true" mt="1555331588757" redirect="true"/>
+  <file name="index.html" crc="3778860803" seo="true" mt="1555333163263" redirect="true"/>
 </manifest>
