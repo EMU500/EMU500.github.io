@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="emu500.github.io" resolutions="1x,2x" timestamp="1555293533101">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="emu500.github.io" resolutions="1x,2x" timestamp="1555331617553">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3869893343" ref="index"/>
+    <file name="index.css" crc="4013709772" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -296,5 +296,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="30424304" seo="true" mt="1555293500636" redirect="true"/>
+  <file name="index.html" crc="3994155403" seo="true" mt="1555331588757" redirect="true"/>
 </manifest>
